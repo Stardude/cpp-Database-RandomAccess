@@ -1,0 +1,28 @@
+﻿Build started 21.03.2016 14:36:04.
+     1>Project "C:\Users\Юра\Documents\Visual Studio 2015\Projects\cppDatabase - Random Access\cppDatabase\cppDatabase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp StudentDatabase.cpp
+         Main.cpp
+     1>c:\users\юра\documents\visual studio 2015\projects\cppdatabase - random access\cppdatabase\main.cpp(10): warning C4101: 'M': unreferenced local variable
+         Generating Code...
+         Compiling...
+         StudentDatabase.cpp
+     1>c:\users\юра\documents\visual studio 2015\projects\cppdatabase - random access\cppdatabase\studentdatabase.cpp(94): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+     1>c:\users\юра\documents\visual studio 2015\projects\cppdatabase - random access\cppdatabase\studentdatabase.cpp(104): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+     1>c:\users\юра\documents\visual studio 2015\projects\cppdatabase - random access\cppdatabase\studentdatabase.cpp(206): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+     1>c:\users\юра\documents\visual studio 2015\projects\cppdatabase - random access\cppdatabase\studentdatabase.cpp(218): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+     1>c:\users\юра\documents\visual studio 2015\projects\cppdatabase - random access\cppdatabase\studentdatabase.cpp(260): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+     1>c:\users\юра\documents\visual studio 2015\projects\cppdatabase - random access\cppdatabase\studentdatabase.cpp(280): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+     1>c:\users\юра\documents\visual studio 2015\projects\cppdatabase - random access\cppdatabase\studentdatabase.cpp(338): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+     1>c:\users\юра\documents\visual studio 2015\projects\cppdatabase - random access\cppdatabase\studentdatabase.cpp(353): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+     1>c:\users\юра\documents\visual studio 2015\projects\cppdatabase - random access\cppdatabase\studentdatabase.cpp(373): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Юра\Documents\Visual Studio 2015\Projects\cppDatabase - Random Access\Debug\cppDatabase.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Юра\Documents\Visual Studio 2015\Projects\cppDatabase - Random Access\Debug\cppDatabase.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Юра\Documents\Visual Studio 2015\Projects\cppDatabase - Random Access\Debug\cppDatabase.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\StudentDatabase.obj
+         cppDatabase.vcxproj -> C:\Users\Юра\Documents\Visual Studio 2015\Projects\cppDatabase - Random Access\Debug\cppDatabase.exe
+     1>Done Building Project "C:\Users\Юра\Documents\Visual Studio 2015\Projects\cppDatabase - Random Access\cppDatabase\cppDatabase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.34
